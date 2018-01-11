@@ -1,0 +1,3 @@
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns_Strategy\bin\Debug\DesignPatterns.exe.config
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns_Strategy\obj\Debug\DesignPatterns.exe
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns_Strategy\obj\Debug\DesignPatterns.pdb

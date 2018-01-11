@@ -1,0 +1,6 @@
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Documentos_pessoais\ESTUDO\ALURA\DesignPatterns1\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
